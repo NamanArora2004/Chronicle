@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item11"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+<item android:id="@+id/item8"
+    android:title="Community"
+    android:icon="@drawable/baseline_groups_24"/>
+    <item android:id="@+id/item9"
+        android:title="Post"
+        android:icon="@drawable/baseline_add_24"/>
+    <item android:id="@+id/item10"
+        android:title="Blogs"
+        android:icon="@drawable/baseline_type_specimen_24"/>
+    <item android:id="@+id/item12"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>

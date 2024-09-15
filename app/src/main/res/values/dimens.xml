@@ -1,0 +1,5 @@
+<resources>
+    <!-- Define the missing dimensions here -->
+    <dimen name="newsMoreTextSize">14sp</dimen> <!-- or any size value -->
+    <dimen name="headerTextSize">18sp</dimen> <!-- or any size value -->
+</resources>

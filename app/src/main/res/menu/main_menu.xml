@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/baseline_photo_camera_24"
+            android:title="AR Camera" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/baseline_map_24"
+            android:title="Virtual Map" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/baseline_type_specimen_24"
+            android:title="Blogs" />
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/sharp_neurology_24"
+            android:title="AI Bot" />
+
+        <item
+            android:icon="@drawable/baseline_design_services_24"
+            android:id="@+id/item5"
+            android:title="About" />
+        <item
+            android:icon="@drawable/baseline_build_circle_24"
+            android:id="@+id/item6"
+            android:title="Options" />
+        <item
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:id="@+id/item7"
+            android:title="Logout" />
+
+
+</menu>

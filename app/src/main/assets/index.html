@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consistency in UI Design</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #000000
+;
+            color: #fff;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+        }
+        .title {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #fff;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 1.2em;
+            color: #e0e0e0;
+            margin-bottom: 40px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(10, 20px);
+            grid-gap: 10px;
+            justify-content: center;
+        }
+        .triangle {
+            width: 0;
+            height: 0;
+            border-left: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-bottom: 20px solid #ff6b6b;
+        }
+        .triangle.special {
+            border-bottom-color: #00cec9;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="title">Welcome to Cronicle ChatBot</div>
+    <div class="subtitle">Ask Anything</div>
+    <div class="grid">
+    </div>
+</body>
+</html>
+
+<div class="footer">
+    <script src="https://cdn.botpress.cloud/webchat/v2.1/inject.js"></script>
+    <script src="https://mediafiles.botpress.cloud/7c4a997e-4789-4946-9f44-95596463544f/webchat/v2.1/config.js"></script>
+</div>
+</body>
+</html>

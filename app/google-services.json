@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "990627216075",
+    "firebase_url": "https://chronicle-6255e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chronicle-6255e",
+    "storage_bucket": "chronicle-6255e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990627216075:android:878d0250a80e2c887e794e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication100"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnt35ra9Wvbganp9Rjz14EOi0D7I8DNA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

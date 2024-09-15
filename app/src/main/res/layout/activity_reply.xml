@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Display the question text -->
+    <TextView
+        android:id="@+id/tv_question_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Question goes here"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <!-- RecyclerView to display replies -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/replies_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="8dp" />
+
+    <!-- Reply input area -->
+    <EditText
+        android:id="@+id/et_reply_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your reply"
+        android:padding="8dp" />
+
+    <!-- Submit button for reply -->
+    <Button
+        android:id="@+id/reply_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit Reply"
+        android:layout_gravity="end"
+        android:padding="8dp" />
+
+</LinearLayout>

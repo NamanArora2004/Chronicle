@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+
+    android:padding="10dp"
+    android:layout_marginBottom="10dp"
+    android:background="#D8DECE">
+
+    <!-- Question Section -->
+    <LinearLayout
+        android:id="@+id/questionLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:background="#CCCCCC">
+
+        <TextView
+            android:id="@+id/tv_toggle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:id="@+id/tv_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question goes here?"
+            android:textSize="16sp"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <!-- Answer Section (Initially hidden) -->
+    <TextView
+        android:id="@+id/tv_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Answer goes here."
+        android:textSize="14sp"
+        android:textColor="#333333"
+        android:visibility="gone"
+        android:background="#F9F9F9" />
+</LinearLayout>
