@@ -16,7 +16,7 @@ Features
 Screenshots
 <img width="207" height="374" alt="image" src="https://github.com/user-attachments/assets/b0d1fef1-7d55-4b3e-8d8d-a52c463a710d" />
 
-<img width="236" height="424" alt="image" src="https://github.com/user-attachments/assets/f04f19a0-ac8d-4f6b-a640-77512a41c50d" />
+<img width="352" height="634" alt="image" src="https://github.com/user-attachments/assets/79fee19a-0aa0-45ec-8cd9-6c6980ba2dc2" />
 
 <img width="272" height="489" alt="image" src="https://github.com/user-attachments/assets/dc183fe5-8aa3-48ae-a08e-3bf9e389650b" />
 <img width="373" height="656" alt="image" src="https://github.com/user-attachments/assets/84b11fcf-c500-4518-95ef-0ec22e95b014" />
