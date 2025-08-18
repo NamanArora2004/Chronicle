@@ -14,11 +14,13 @@ Features
 4) 3D Monuments: Integration of 3D models to showcase monuments in an immersive way.
 
 Screenshots
+
+
 <img width="207" height="374" alt="image" src="https://github.com/user-attachments/assets/b0d1fef1-7d55-4b3e-8d8d-a52c463a710d" />
 
 <img width="352" height="634" alt="image" src="https://github.com/user-attachments/assets/79fee19a-0aa0-45ec-8cd9-6c6980ba2dc2" />
 
-<img width="272" height="489" alt="image" src="https://github.com/user-attachments/assets/dc183fe5-8aa3-48ae-a08e-3bf9e389650b" />
+<img width="352" height="634" alt="image" src="https://github.com/user-attachments/assets/21379d7c-a930-41fd-9f92-babdaca2cfcb" />
 <img width="373" height="656" alt="image" src="https://github.com/user-attachments/assets/84b11fcf-c500-4518-95ef-0ec22e95b014" />
 
 <img width="308" height="548" alt="image" src="https://github.com/user-attachments/assets/54c4edf5-fac7-4ae6-b3e0-9d987cf7c8e7" />
